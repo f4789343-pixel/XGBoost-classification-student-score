@@ -197,9 +197,6 @@ for i in range(len(y_test)):
 precision = (tp / (tp+fp))
 recall = (tp/(tp+fn))
 
-print('Precision:',precision)
-print('recall:',recall)
-
 def confusion_matrix(y_pred,y_test):
    classes = np.unique(y_test)
    matrix = np.zeros((len(classes),len(classes)),dtype=int)
