@@ -140,3 +140,10 @@ XGBoost_classification/
 ```
 
 ### What I learned
+* Implemented XGBoost classification from scratch.
+* Learned how to train model using xgboost algorithm.
+* Learned the difference between classification and regression implementation.
+* Learned to get better model, good dataset also essential as good algorithm.
+* Learned manual implementation takes more time to run program compare with libraries.
+* Learned with poor datasets library models also perform poor without normalizing data.
+   
